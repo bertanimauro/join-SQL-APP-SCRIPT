@@ -34,8 +34,8 @@ https://www.wolframalpha.com/input?i=%28%28%2865000*log%2865000%29%29%29%3D%28x%
 
 https://www.wolframalpha.com/input?i=z%3D15+%26%26+%28%28%2865000*log%2865000%29%29%2Fz%29+%3D%28x%29%29+%26%26+q+%3Dx%2F2+%26%26+y%3D30q+%26%26+r%3Dy%2F%285*z*log%28z%29%29 5 column of 15 characters, 3500 items in 30 seconds. A google sheet can make a join of two arrays of 3500 items print 5 column of 15 chars
 
-https://www.wolframalpha.com/input?i=z%3D15+%26%26+%28%28%2865000*log%2865000%29-65000*2%29%2Fz%29+%3D%28x%29%29+%26%26+q+%3D%28x%2F2%29%26%26+y%3D30q+%26%26+r%3Dy%2F%285*z*log%28z%29%29 You must load the two array in memory. 2900 items
+https://www.wolframalpha.com/input?i=z%3D15+%26%26+%28%28%2865000*log%2865000%29-65000*2%29%2Fz%29+%3D%28x%29%29+%26%26+q+%3D%28x%2F2%29%26%26+y%3D30q+%26%26+r%3Dy%2F%285*z*log%28z%29%29 You must load the two array in memory. r=2900 items
 
 https://www.wolframalpha.com/input?i=c%3D65000+%26%26+n%3Dc*2+%26%26+m%3Dc%2F10+%26%26+z%3D15+%26%26+%28%28%28n*log%28n%29-%28n%2Bm%29+-+nlogm%29%2Fz%29+%3D%28x%29%29+%26%26+q+%3D%28x%2F2%29%26%26+y%3D30q+%26%26+a%3Dy%2F%285*z*log%28z%29%29 n 6000 ed m 10 times less. 1200 items
 
-https://www.wolframalpha.com/input?i=c%3D65000+%26%26+n%3Dc%2F10+%26%26+m%3Dc*2+%26%26+z%3D15+%26%26+%28%28%28n*log%28n%29-%28n%2Bm%29+-+nlogm%29%2Fz%29+%3D%28x%29%29+%26%26+q+%3D%28x%2F2%29%26%26+y%3D30q+%26%26+a%3Dy%2F%285*z*log%28z%29%29 if we invert n witm m we have a timeout
+https://www.wolframalpha.com/input?i=c%3D65000+%26%26+n%3Dc%2F10+%26%26+m%3Dc*2+%26%26+z%3D15+%26%26+%28%28%28n*log%28n%29-%28n%2Bm%29+-+nlogm%29%2Fz%29+%3D%28x%29%29+%26%26+q+%3D%28x%2F2%29%26%26+y%3D30q+%26%26+a%3Dy%2F%285*z*log%28z%29%29 if we invert n with m we have a timeout
